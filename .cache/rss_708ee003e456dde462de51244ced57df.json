@@ -1,0 +1,117 @@
+{
+  "feed_title": "OpenAI News",
+  "feed_description": "The OpenAI blog",
+  "articles": [
+    {
+      "title": "Resolving digital threats 100x faster with OpenAI",
+      "link": "https://openai.com/index/outtake",
+      "description": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+      "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+      "published": "Thu, 24 Jul 2025 00:00:00 GMT",
+      "updated": "Thu, 24 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before."
+    },
+    {
+      "title": "Announcing OpenAI DevDay 2025",
+      "link": "https://openai.com/index/announcing-devday-2025",
+      "description": "OpenAI DevDay returns on October 6, 2025 in San Francisco\u2014bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI.",
+      "summary": "OpenAI DevDay returns on October 6, 2025 in San Francisco\u2014bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI.",
+      "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "updated": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "OpenAI DevDay returns on October 6, 2025 in San Francisco\u2014bringing together 1,500+ developers to preview new tools, hear from OpenAI leaders, and shape the future of AI."
+    },
+    {
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "link": "https://openai.com/index/model-ml-chaz-englander",
+      "description": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "published": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "updated": "Wed, 23 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows."
+    },
+    {
+      "title": "Pioneering an AI clinical copilot with Penda Health",
+      "link": "https://openai.com/index/ai-clinical-copilot-penda-health",
+      "description": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
+      "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare.",
+      "published": "Tue, 22 Jul 2025 10:00:00 GMT",
+      "updated": "Tue, 22 Jul 2025 10:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use\u2014offering a new path for safe, effective AI in healthcare."
+    },
+    {
+      "title": "OpenAI\u2019s new economic analysis",
+      "link": "https://openai.com/global-affairs/new-economic-analysis",
+      "description": "Analysis provides insights into ChatGPT\u2019s impact on the economy. OpenAI also launches new research collaboration to study AI\u2019s broader effects on the labor market and productivity.",
+      "summary": "Analysis provides insights into ChatGPT\u2019s impact on the economy. OpenAI also launches new research collaboration to study AI\u2019s broader effects on the labor market and productivity.",
+      "published": "Tue, 22 Jul 2025 00:00:00 GMT",
+      "updated": "Tue, 22 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "Analysis provides insights into ChatGPT\u2019s impact on the economy. OpenAI also launches new research collaboration to study AI\u2019s broader effects on the labor market and productivity."
+    },
+    {
+      "title": "Stargate advances with 4.5 GW partnership with Oracle",
+      "link": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+      "description": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
+      "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
+      "published": "Tue, 22 Jul 2025 00:00:00 GMT",
+      "updated": "Tue, 22 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America\u2019s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI\u2019s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone."
+    },
+    {
+      "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+      "link": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+      "description": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
+      "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
+      "published": "Mon, 21 Jul 2025 10:00:00 GMT",
+      "updated": "Mon, 21 Jul 2025 10:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK."
+    },
+    {
+      "title": "AI as the greatest source of empowerment for all",
+      "link": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
+      "description": "I\u2019ve always considered myself a pragmatic technologist\u2014someone who loves technology not for its own sake, but for the direct impact it can have on people\u2019s lives. That\u2019s what makes this job so exciting, since I believe AI will unlock more opportunities for more people than any other technology in history. If we get this right, AI can give everyone more power than ever.",
+      "summary": "I\u2019ve always considered myself a pragmatic technologist\u2014someone who loves technology not for its own sake, but for the direct impact it can have on people\u2019s lives. That\u2019s what makes this job so exciting, since I believe AI will unlock more opportunities for more people than any other technology in history. If we get this right, AI can give everyone more power than ever.",
+      "published": "Mon, 21 Jul 2025 00:00:00 GMT",
+      "updated": "Mon, 21 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "I\u2019ve always considered myself a pragmatic technologist\u2014someone who loves technology not for its own sake, but for the direct impact it can have on people\u2019s lives. That\u2019s what makes this job so exciting, since I believe AI will unlock more opportunities for more people than any other technology in history. If we get this right, AI can give everyone more power than ever."
+    },
+    {
+      "title": "A $50 million fund to build with communities",
+      "link": "https://openai.com/index/50-million-fund-to-build-with-communities",
+      "description": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+      "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+      "published": "Fri, 18 Jul 2025 00:00:00 GMT",
+      "updated": "Fri, 18 Jul 2025 00:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report."
+    },
+    {
+      "title": "Introducing ChatGPT agent",
+      "link": "https://openai.com/index/introducing-chatgpt-agent",
+      "description": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
+      "summary": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance.",
+      "published": "Thu, 17 Jul 2025 10:00:00 GMT",
+      "updated": "Thu, 17 Jul 2025 10:00:00 GMT",
+      "author": "",
+      "tags": [],
+      "content": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows\u2014all with your guidance."
+    }
+  ],
+  "fetched_at": "2025-07-26T17:29:43.219149"
+}
