@@ -22,7 +22,7 @@ dotenv.load_dotenv()
 
 AGENT_NAME = "dev_news_agent"
 
-MODEL = os.getenv("MODEL", "gemini-2.5-flash-lite")
+MODEL = os.getenv("MODEL", "gemini-2.5-flash")
 
 # Browser configuration
 DISABLE_WEB_DRIVER = int(os.getenv("DISABLE_WEB_DRIVER", "0"))
