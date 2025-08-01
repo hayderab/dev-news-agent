@@ -9,7 +9,7 @@ from langchain_mcp_adapters.tools import load_mcp_tools
 from langgraph.prebuilt import create_react_agent
 
 # ✅ Set your API key securely
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDLA4jrlu_9ehwm1lKc0OjJlT7gQWf7y9M"
+os.environ["GOOGLE_API_KEY"] = ""
 
 # ✅ Full path to the MCP-compatible tool server (e.g. Playwright or math server)
 server_params = StdioServerParameters(
